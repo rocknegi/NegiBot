@@ -21,4 +21,4 @@ client.on('message',async msg =>{
     
 });
 
-client.login('NTQ3NDM4NjgxODA4NTY4MzIw.D02zuA.7lJE8z8vZgX61UccgHGF8T8r7Uc');
+client.login('NTQ4ODg0NTE4ODExOTkyMDY0.D1L1jg.M-q687jmfP1oVRP7zQrSfBnq6tM');
